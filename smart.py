@@ -128,7 +128,7 @@ def main():
 
         tv.disconnect()
     else:
-        print("Gagal tekneksi dengan smart tv, pastikan 1 jaringan.")
+        print("Gagal tekneksi dengan smart tv / android tv, pastikan 1 jaringan.")
 
 if __name__ == "__main__":
-    main()
+    main() 
